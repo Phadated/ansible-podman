@@ -14,8 +14,8 @@ DOCUMENTATION = """
       - Dhanisha Phadate (@Phadated) 
       - Renu Hadke (@renuHadke)
       - Neha Jain (@nehajain1809)
-      - krish Jain (@krishjain1849)
-      - chinmay keskar (@ckeskar)
+      - Krish Jain (@krishjain4894)
+      - Chinmay Keskar (@ckeskar)
   short_description: Pull images for use by podman
   notes: []
   description:
